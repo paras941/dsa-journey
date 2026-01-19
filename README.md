@@ -1,94 +1,71 @@
-# DSA-LEARNING
+# 📘 DSA-LEARNING
 
-Welcome to **DSA-LEARNING** repository! This repository contains all my **Data Structures and Algorithms (DSA)** practice codes, problems, and resources. It is organized to help in learning and revising DSA concepts effectively.
+A structured repository for mastering **Data Structures and Algorithms (DSA)** and **C++ concepts** through implementations, practice problems, and MCQ-based revision.
 
 ---
 
 ## 📁 Repository Structure
 
-DSA-LEARNING/
-│
-├─ DSA/ # Core DSA topics and implementations.
-│
-├─ Oops/ # Object-Oriented Programming examples.
-│
-├─ Practice.problems/ # Solved practice problems.
-│
-├─ SearchingInDsa/ # Search algorithms (linear, binary, etc.).
-│
-├─ arrays/ # Array questions and solutions.
-│
-├─ countingnumber/ # Counting-based problems.
-│
-├─ linkedlist/ # Linked list implementations.
-│
-├─ patterns/ # Pattern problems (star patterns, number patterns).
-│
-└─ pointers/ # Pointer problems and examples.
+| Folder | Description |
+|--------|-------------|
+| `DSA/` | Core DSA topics and implementations |
+| `Oops/` | Object-Oriented Programming examples in C++ |
+| `Practice.problems/` | Solved practice problems |
+| `SearchingInDsa/` | Searching algorithms (Linear, Binary, etc.) |
+| `arrays/` | Array problems and solutions |
+| `countingnumber/` | Counting-based problems |
+| `linkedlist/` | Linked List implementations |
+| `patterns/` | Star and number pattern problems |
+| `pointers/` | Pointer problems and examples |
 
+---
 
-## Topics Covered
+## 🧠 DSA Topics Covered
 
-* Arrays, Pointers, and Linked Lists
+| Category | Concepts |
+|----------|----------|
+| Arrays & Pointers | Array operations, pointer arithmetic |
+| Linked Lists | Singly & basic linked list operations |
+| Searching | Linear Search, Binary Search |
+| Sorting | Basic sorting techniques |
+| OOP in C++ | Classes, Objects, Polymorphism |
+| Patterns | Star & Number patterns |
+| Counting | Frequency, combinations, basic math logic |
 
-* OOP concepts in C++
+---
 
-* Searching & Sorting algorithms
+## 🧾 C++ MCQ Practice (DSA-QUESTIONS)
 
-* Pattern problems
+A collection of **multiple-choice questions** for concept revision.
 
-* Counting and combinatorial problems
+### 📌 Quiz Coverage
 
-* Practice problem sets
-* 
-📘 DSA-QUESTIONS
+| Topic | Description |
+|------|-------------|
+| Data Types | Memory size, `wchar_t`, primitive types |
+| Pointers & References | Pointer behavior, `this` pointer |
+| Functions | Call by value, reference, pointer |
+| File Handling | Text vs Binary modes |
+| OOP | Polymorphism, classes, objects |
+| Exception Handling | `try`, `catch`, `throw` |
+| Preprocessor | Macros, directives |
+| Strings | `<string>` library questions |
 
-This repository contains a collection of C++ multiple-choice quiz questions designed to help students and developers test and strengthen their understanding of C++.
+---
 
-🧾 Overview
+## 🎯 Purpose
 
-The quiz covers fundamental and intermediate concepts of C++ such as:
+| Goal | Description |
+|------|-------------|
+| DSA Mastery | Strengthen core data structures & algorithms |
+| C++ Revision | Reinforce language fundamentals |
+| Interview Prep | Practice logic, MCQs, and implementations |
+| Consistency | Track daily learning and problem solving |
 
-Data types and memory allocation
+---
 
-File handling.
+### 🔖 Tech Stack
 
-Pointers and references
-
-Functions and parameter passing
-
-Preprocessor directives and macros
-
-Exception handling
-
-Object-oriented programming concepts (e.g., polymorphism, this pointer)
-
-Each question is accompanied by:
-
-Multiple-choice options
-
-Correct answer
-
-Explanation for better understanding
-
-📌 Example Topics
-
-Size of special data types like wchar_t
-
-File opening modes (text vs binary)
-
-Behavior of the this pointer
-
-Function call mechanisms (value, reference, pointer)
-
-Exception handling (try, catch, throw)
-
-Polymorphism in OOP
-
-Macros and preprocessor directives
-
-string header file questions 
-
-pointers questions.
-
-
+| Language | Usage |
+|----------|-------|
+| C++ | DSA implementation & MCQ practice |
